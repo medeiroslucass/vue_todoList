@@ -1,0 +1,11 @@
+body {
+  font-family: "Roboto", sans-serif;
+  padding: 0;
+  margin: 0;
+  background: rgb(21,32,43);
+  color: black;
+}
+
+.error-text{
+  color: red;
+}
